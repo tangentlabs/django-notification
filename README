@@ -9,3 +9,5 @@ includes:
  * notification messages on signing in
  * notification messages via email (configurable by user)
  * notification messages via feed
+
+FORKED FROM https://github.com/mirumee/django-notification which seems to have been deprecated.
